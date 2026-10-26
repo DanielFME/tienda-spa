@@ -1,4 +1,4 @@
-# Nébula Market - Tienda SPA
+# Revolate - Tienda SPA
 
 Aplicación para practicar estado global y enrutamiento con React, Vite y React Router.
 
@@ -16,5 +16,3 @@ npm run dev
 3. Haz `push` a `main`. El workflow incluido compila y publica el sitio.
 
 Incluye una página `404.html` para que las rutas `/productos` y `/carrito` funcionen al recargar directamente en GitHub Pages.
-
-> Última verificación: compilación local correcta y flujo de despliegue incluido.
